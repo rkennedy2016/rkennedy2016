@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkennedy2016
 - 👀 I’m interested in batch coding (e.g .bat)
 - 🌱 I’m currently learning javascript (im not really good)
-- 💞️ I’m looking to collaborate on https://github.com/rkennedy2016/windows-malware
+- 💞️ I’m looking to collaborate on https://github.com/rkennedy2016/windows-malware-V2
 - 📫 How to reach me i hide my email but if you want my gmail address its this rowankennedy2019@gmail.com
 - 😄 Pronouns: he/him/them
 
