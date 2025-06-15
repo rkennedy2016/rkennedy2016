@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @rkennedy2016
-- 👀 I’m interested in batch coding (e.g .bat)
-- 🌱 I’m currently learning javascript (im not really good)
-- 💞️ I’m looking to collaborate on https://github.com/rkennedy2016/windows-malware-V2
-- 📫 How to reach me i hide my email but if you want my gmail address its this rowankennedy2019@gmail.com
-- 😄 Pronouns: he/him/them
+## About Me
 
-<!---
-rkennedy2016/rkennedy2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Senior Software Engineer with extensive experience designing, developing, and scaling modern software solutions. I thrive in collaborative environments and have a proven track record of leading teams, architecting robust systems, and mentoring junior engineers. My passion lies in solving complex problems, driving technical excellence, and delivering high-quality products that make an impact.
+
+---
+
+## Top Skills
+
+- Software architecture & system design
+- Leadership & mentoring
+- Code review & best practices
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Test-driven development (TDD) & automated testing
+- Cloud infrastructure & DevOps
+- Cross-team communication
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, JavaScript (Node.js, React), TypeScript, Java,
+- **Tools:** Git, GitHub Actions, Jenkins, VS Code, Jira, Postman
+
+---
+
+*Always open to new challenges, continuous learning, and contributing to impactful projects.*
