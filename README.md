@@ -1,3 +1,6 @@
+## news
+Saturday 29 March - Saturday 29 April
+I am making swift coding stuff for ios
 ## About Me
 
 I am a Senior Software Engineer with extensive experience designing, developing, and scaling modern software solutions. I thrive in collaborative environments and have a proven track record of leading teams, architecting robust systems, and mentoring junior engineers. My passion lies in solving complex problems, driving technical excellence, and delivering high-quality products that make an impact.
