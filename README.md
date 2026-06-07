@@ -1,4 +1,8 @@
 ## news
+Sunday 07 June - (about) Monday 31 August
+Working on Peridot Recreation for you all
+check out the beta here -> github.com/rkennedy2016/peridot-recreation
+
 Saturday 29 March - Saturday 29 April
 I am making swift coding stuff for ios
 ## About Me
@@ -10,11 +14,10 @@ I am a Senior Software Engineer with extensive experience designing, developing,
 ## Top Skills
 
 - Software architecture & system design
-- Leadership & mentoring
+
 - Code review & best practices
 - Continuous Integration/Continuous Deployment (CI/CD)
 - Test-driven development (TDD) & automated testing
-- Cloud infrastructure & DevOps
 - Cross-team communication
 
 ---
@@ -22,7 +25,7 @@ I am a Senior Software Engineer with extensive experience designing, developing,
 ## Tech Stack
 
 - **Languages:** Python, JavaScript (Node.js, React), TypeScript, Java,
-- **Tools:** Git, GitHub Actions, Jenkins, VS Code, Jira, Postman
+- **Tools:** Git, VS Code
 
 ---
 
